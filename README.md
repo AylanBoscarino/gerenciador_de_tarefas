@@ -6,7 +6,7 @@ pelo git, o projeto está na pasta `questao_4`.
 Após baixado entre na pasta `questao_4` e rode o comando `composer install` na 
 linha de comando para que o **Composer** instale as dependências.
 
-> **Nota** é necessário que o Composer já esteja instalado na máquina previamente.
+> **Nota**: é necessário que o Composer já esteja instalado na máquina previamente.
 
 Para que o sistema funcione é preciso rodar o seguinte scrip no **MySQL** que cria
 o banco de dados que será usado.
